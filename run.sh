@@ -12,8 +12,12 @@ brew install bat
 brew install tldr
 brew install ag
 brew install jq
-brew install --cask minikube
+brew install kubectl
+brew install kubectx
+brew install minikube
 brew install --cask java
 brew install --cask squirrel
 brew install --cask phpstorm
 brew install --cask dbeaver-community
+
+curl -s "https://get.sdkman.io" | bash
