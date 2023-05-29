@@ -17,6 +17,7 @@ brew install kubectx
 brew install minikube
 brew install terraform
 brew install terragrunt
+brew install cmctl
 brew install --cask java
 brew install --cask squirrel
 brew install --cask phpstorm
