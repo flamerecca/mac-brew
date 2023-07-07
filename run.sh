@@ -27,5 +27,6 @@ brew install --cask dbeaver-community
 brew install --cask sublime-text
 brew install --cask obsidian
 brew install --cask sequel-ace
+brew install --cask notion
 
 curl -s "https://get.sdkman.io" | bash
