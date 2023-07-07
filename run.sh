@@ -29,4 +29,6 @@ brew install --cask obsidian
 brew install --cask sequel-ace
 brew install --cask notion
 
+pecl install pcov
+
 curl -s "https://get.sdkman.io" | bash
