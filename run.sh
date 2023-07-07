@@ -25,5 +25,6 @@ brew install --cask squirrel
 brew install --cask phpstorm
 brew install --cask dbeaver-community
 brew install --cask sublime-text
+brew install --cask obsidian
 
 curl -s "https://get.sdkman.io" | bash
