@@ -22,7 +22,7 @@ brew install pnpm
 brew install zsh
 brew install --cask java
 brew install --cask squirrel
-brew install --cask phpstorm
+brew install --cask jetbrains-toolbox
 brew install --cask sublime-text
 brew install --cask obsidian
 brew install --cask sequel-ace
