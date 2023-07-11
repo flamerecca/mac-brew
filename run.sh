@@ -23,11 +23,11 @@ brew install zsh
 brew install --cask java
 brew install --cask squirrel
 brew install --cask phpstorm
-brew install --cask dbeaver-community
 brew install --cask sublime-text
 brew install --cask obsidian
 brew install --cask sequel-ace
 brew install --cask notion
+brew install --cask figma
 
 pecl install pcov
 
