@@ -31,6 +31,7 @@ brew install --cask sequel-ace
 brew install --cask notion
 brew install --cask figma
 brew install --cask insomnia
+brew install --cask cheatsheet
 
 pecl install pcov
 
