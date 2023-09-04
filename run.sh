@@ -20,6 +20,7 @@ brew install terraform
 brew install terragrunt
 brew install cmctl
 brew install pnpm
+brew install bottom
 brew install --cask java
 brew install --cask squirrel
 brew install --cask jetbrains-toolbox
