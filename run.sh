@@ -5,7 +5,7 @@ brew install php
 brew install nmap
 brew install kerl
 brew install telnet
-brew install ftp
+brew install lftp
 brew install gradle
 brew install node
 brew install exa
