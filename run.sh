@@ -9,7 +9,6 @@ brew install telnet
 brew install lftp
 brew install gradle
 brew install node
-brew install exa
 brew install bat
 brew install tldr
 brew install ag
