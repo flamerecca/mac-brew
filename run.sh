@@ -14,6 +14,7 @@ brew install bat
 brew install tldr
 brew install ag
 brew install jq
+brew install tree
 brew install kubectl
 brew install kubectx
 brew install minikube
