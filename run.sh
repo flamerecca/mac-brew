@@ -25,6 +25,7 @@ brew install cmctl
 brew install pnpm
 brew install bottom
 brew install ripgrep
+brew install cmatrix
 brew install --cask java
 brew install --cask squirrel
 brew install --cask jetbrains-toolbox
