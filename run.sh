@@ -8,6 +8,7 @@ brew install kerl
 brew install telnet
 brew install lftp
 brew install gradle
+brew install mongodb
 brew install node
 brew install nvm
 brew install bat
