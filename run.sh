@@ -30,6 +30,7 @@ brew install cmatrix
 brew install sqlmap
 brew install htop
 brew install btop
+brew install httpie
 brew install --cask java
 brew install --cask squirrel
 brew install --cask jetbrains-toolbox
