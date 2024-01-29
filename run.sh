@@ -32,6 +32,7 @@ brew install htop
 brew install btop
 brew install httpie
 brew install k6
+brew install gpg
 brew install --cask java
 brew install --cask squirrel
 brew install --cask jetbrains-toolbox
