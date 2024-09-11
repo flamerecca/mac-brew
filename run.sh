@@ -55,6 +55,7 @@ brew install --cask figma
 brew install --cask insomnia
 brew install --cask iina
 brew install --cask cheatsheet
+brew install --cask handbrake
 
 pecl install pcov
 
