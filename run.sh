@@ -56,6 +56,7 @@ brew install --cask insomnia
 brew install --cask iina
 brew install --cask cheatsheet
 brew install --cask handbrake
+brew install --cask menumeters
 
 pecl install pcov
 
