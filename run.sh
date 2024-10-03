@@ -42,6 +42,7 @@ brew install tig
 brew install tldr
 brew install tree
 brew install wget
+brew install websocat
 brew install zsh
 
 brew install --cask java
