@@ -235,22 +235,13 @@ function bb() {
 function pokill() {
   kill $(lsof -t -i:$1)
 }
-
-function cc() {
-  sudo nano ~/x-commands/aliasCommands.sh
-}
  
 function bc() {
-  sudo nano ~/.bashrc
-}
-
-function scc() {
-  source ~/x-commands/aliasCommands.sh
-  echo "Alias Commands Refreshed... "
+  sudo subl ~/.bashrc
 }
  
 function bcc() {
-  source ~/.bashrc
+  source ~/.zshrc
   echo "Terminal Refreshed..."
 }
  
