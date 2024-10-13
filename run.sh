@@ -58,6 +58,7 @@ brew install --cask iina
 brew install --cask cheatsheet
 brew install --cask handbrake
 brew install --cask menumeters
+brew install --cask google-cloud-sdk
 
 pecl install pcov
 
