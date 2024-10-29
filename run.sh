@@ -23,6 +23,7 @@ brew install kubectx
 brew install lftp
 brew install minikube
 brew install nasm
+brew install netcat
 brew install nghttp2
 brew install nmap
 brew install node
