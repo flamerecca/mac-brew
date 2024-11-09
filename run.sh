@@ -11,6 +11,7 @@ brew install docker
 brew install gnupg
 brew install gradle
 brew install guile
+brew install hadolint
 brew install htmlq
 brew install htop
 brew install httpie
@@ -41,6 +42,7 @@ brew install the_silver_searcher
 brew install tig
 brew install tldr
 brew install tree
+brew install trivy
 brew install wget
 brew install websocat
 brew install zsh
