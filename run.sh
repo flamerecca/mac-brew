@@ -8,7 +8,6 @@ brew install cask
 brew install cmatrix
 brew install cmctl
 brew install docker
-brew install docker-compose
 brew install gnupg
 brew install gradle
 brew install guile
