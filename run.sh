@@ -20,6 +20,8 @@ brew install k6
 brew install kerl
 brew install ki
 brew install kubectx
+brew install lazydocker
+brew install lazygit
 brew install lftp
 brew install minikube
 brew install nasm
