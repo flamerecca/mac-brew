@@ -56,7 +56,6 @@ brew install --cask jetbrains-toolbox
 brew install --cask sublime-text
 brew install --cask obsidian
 brew install --cask sequel-ace
-brew install --cask notion
 brew install --cask figma
 brew install --cask insomnia
 brew install --cask iina
