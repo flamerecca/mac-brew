@@ -31,6 +31,7 @@ brew install nmap
 brew install node
 brew install nvm
 brew install openssl
+brew install ollama
 brew install perl
 brew install php
 brew install pnpm
