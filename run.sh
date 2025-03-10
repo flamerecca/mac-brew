@@ -43,7 +43,6 @@ brew install telnet
 brew install terragrunt
 brew install the_silver_searcher
 brew install tig
-brew install tldr
 brew install tree
 brew install trivy
 brew install wget
