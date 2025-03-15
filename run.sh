@@ -47,6 +47,7 @@ brew install tree
 brew install trivy
 brew install wget
 brew install websocat
+brew install wpscan
 brew install zsh
 
 brew install --cask java
