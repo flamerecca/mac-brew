@@ -8,6 +8,7 @@ brew install cask
 brew install cmatrix
 brew install cmctl
 brew install docker
+brew install font-hack-nerd-font
 brew install gnupg
 brew install gradle
 brew install guile
@@ -23,6 +24,7 @@ brew install kubectx
 brew install lazydocker
 brew install lazygit
 brew install lftp
+brew install lsd
 brew install minikube
 brew install nasm
 brew install netcat
@@ -49,6 +51,8 @@ brew install wget
 brew install websocat
 brew install wpscan
 brew install zsh
+brew install zoxide
+
 
 brew install --cask java
 brew install --cask squirrel
