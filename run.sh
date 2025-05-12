@@ -67,6 +67,7 @@ brew install --cask cheatsheet
 brew install --cask handbrake
 brew install --cask menumeters
 brew install --cask google-cloud-sdk
+brew install --cask --no-quarantine tomatobar
 
 pecl install pcov
 
