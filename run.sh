@@ -7,6 +7,7 @@ brew install bottom
 brew install cask
 brew install cmatrix
 brew install cmctl
+brew install countdown
 brew install docker
 brew install font-hack-nerd-font
 brew install gnupg
