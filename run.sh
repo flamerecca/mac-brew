@@ -76,3 +76,6 @@ curl -s "https://get.sdkman.io" | bash
 
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/powerlevel10k
 echo 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc
+
+npm install -g @anthropic-ai/claude-code
+npm install -g @google/gemini-cli
