@@ -1,0 +1,1 @@
+0 12 * * * /bin/bash __PROJECT_DIR__/scripts/clean-garbage.sh >> __PROJECT_DIR__/cron.log 2>&1

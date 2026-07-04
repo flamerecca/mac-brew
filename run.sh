@@ -1,6 +1,8 @@
 !/bin/bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
+echo "=== 安裝 Homebrew 套件 ==="
+
 brew install alda
 brew install bat
 brew install bottom
@@ -70,12 +72,27 @@ brew install --cask menumeters
 brew install --cask google-cloud-sdk
 brew install --cask --no-quarantine tomatobar
 
+echo "=== 安裝 pcov ==="
+
 pecl install pcov
 
+echo "=== 安裝 sdkman ==="
+
 curl -s "https://get.sdkman.io" | bash
+
+echo "=== 安裝 powerlevel10k ==="
 
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ~/powerlevel10k
 echo 'source ~/powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc
 
+echo "=== 安裝 claude-code ==="
+
 npm install -g @anthropic-ai/claude-code
-npm install -g @google/gemini-cli
+
+echo "=== 安裝 antigravity ==="
+
+curl -fsSL https://antigravity.google/cli/install.sh | bash
+
+echo "=== 安裝環境設置 ==="
+
+bash setup.sh
