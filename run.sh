@@ -29,6 +29,7 @@ brew install lazygit
 brew install lftp
 brew install lsd
 brew install minikube
+brew install mole
 brew install nasm
 brew install netcat
 brew install nghttp2
