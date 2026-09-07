@@ -71,6 +71,7 @@ brew install --cask cheatsheet
 brew install --cask handbrake
 brew install --cask menumeters
 brew install --cask google-cloud-sdk
+brew install --cask font-noto-sans-mono
 brew install --cask --no-quarantine tomatobar
 
 echo "=== 安裝 pcov ==="
